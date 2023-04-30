@@ -1,24 +1,20 @@
 {
   "items": [
     {
-      "title": "asd",
+      "title": "I'm an item in a list!!!",
       "id": 1
     },
     {
-      "title": "abc",
+      "title": "I'm also an item!",
       "id": 2
     },
     {
-      "title": "kjdflakhdflkahfslahdflahflfhsjklfs",
+      "title": "Who are we!?",
       "id": 3
     },
     {
-      "title": "bbbbbbbbbbb",
+      "title": "ITEMS!!!",
       "id": 4
-    },
-    {
-      "title": "a",
-      "id": 5
     }
   ]
 }
